@@ -4,11 +4,11 @@ pkgname=scan2epub
 pkgver=1.2.0
 pkgrel=1
 pkgdesc="Download scan of manga and convert it to epub"
-arch=('x86_64')
+arch=(x86_64 i686 armv7h aarch64)
 url="https://github.com/LordPax/go-${pkgname}"
-license=('MIT')
+license=(MIT)
 depends=()
-makedepends=('go')
+makedepends=(go)
 source=("${url}/archive/refs/tags/v${pkgver}.tar.gz")
 md5sums=('181dd06f5c403794ff9f415553d18d9c')
 
