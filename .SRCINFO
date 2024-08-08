@@ -7,6 +7,6 @@ pkgbase = scan2epub
 	license = MIT
 	makedepends = go
 	source = https://github.com/LordPax/go-scan2epub/archive/refs/tags/v1.2.0.tar.gz
-	sha256sums = SKIP
+	md5sums = 181dd06f5c403794ff9f415553d18d9c
 
 pkgname = scan2epub
