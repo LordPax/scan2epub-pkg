@@ -10,7 +10,7 @@ license=(MIT)
 depends=()
 makedepends=(go)
 source=("${url}/archive/refs/tags/v${pkgver}.tar.gz")
-md5sums=('181dd06f5c403794ff9f415553d18d9c')
+md5sums=('dd257aa1c0bd2d709eda26b8df461b27')
 
 build() {
 	cd "go-${pkgname}-${pkgver}"
