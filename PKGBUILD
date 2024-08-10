@@ -1,7 +1,7 @@
 # Maintainer: teddy gauthier <teddy.gauthier@outlook.com>
 
 pkgname=scan2epub
-pkgver=1.2.0
+pkgver=1.3.0
 pkgrel=1
 pkgdesc="Download scan of manga and convert it to epub"
 arch=(x86_64 i686 armv7h aarch64)
