@@ -1,6 +1,6 @@
 pkgbase = scan2epub
 	pkgdesc = Download scan of manga and convert it to epub
-	pkgver = 1.3.0
+	pkgver = 1.3.1
 	pkgrel = 1
 	url = https://github.com/LordPax/go-scan2epub
 	arch = x86_64
@@ -9,7 +9,7 @@ pkgbase = scan2epub
 	arch = aarch64
 	license = MIT
 	makedepends = go
-	source = https://github.com/LordPax/go-scan2epub/archive/refs/tags/v1.3.0.tar.gz
+	source = https://github.com/LordPax/go-scan2epub/archive/refs/tags/v1.3.1.tar.gz
 	md5sums = dd257aa1c0bd2d709eda26b8df461b27
 
 pkgname = scan2epub
